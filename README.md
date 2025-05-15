@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I am Michael Lynch :) </h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>, I'm Mick :) </h1>
 
-- 👨‍💻 Personal website: https://micklynch.github.io
-- 📎 LinkedIn: https://www.linkedin.com/in/michaellynchphd
+- 👨‍💻 [Personal website](https://micklynch.github.io)
+- 📎 [LinkedIn](https://www.linkedin.com/in/michaellynchphd)
 - 🌱 Constantly learning how to apply AI to Healthcare
 - 🩺 Want to build a [healthcare system of AI agents](https://thacollective.github.io/)
 <!--
